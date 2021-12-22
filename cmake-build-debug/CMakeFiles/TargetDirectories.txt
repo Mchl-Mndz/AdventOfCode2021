@@ -1,0 +1,3 @@
+/Users/mchl-mndz/CLionProjects/advent2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mchl-mndz/CLionProjects/advent2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mchl-mndz/CLionProjects/advent2021/cmake-build-debug/CMakeFiles/advent2021.dir
